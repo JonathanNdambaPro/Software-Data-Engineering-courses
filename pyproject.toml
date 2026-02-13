@@ -17,6 +17,9 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
+dependencies = [
+    "numpy>=2.2.6",
+]
 
 [project.urls]
 Homepage = "https://jojo.github.io/cours/"

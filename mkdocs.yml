@@ -10,6 +10,7 @@ copyright: Maintained by <a href="https://jojo.com">jojo</a>.
 nav:
   - Home Page: index.md
   - Type Hint: cours-1-type-hint.md
+  - Data Structure: cours-2-datastructure.md
 plugins:
   - search
   - mkdocstrings:
