@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jojo.github.io/cours/</loc>
+         <lastmod>2026-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jojo.github.io/cours/cours-1-type-hint/</loc>
+         <lastmod>2026-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jojo.github.io/cours/cours-2-datastructure/</loc>
+         <lastmod>2026-02-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jojo.github.io/cours/cours-3-class-et-dataclass/</loc>
+         <lastmod>2026-02-19</lastmod>
+    </url>
+</urlset>
